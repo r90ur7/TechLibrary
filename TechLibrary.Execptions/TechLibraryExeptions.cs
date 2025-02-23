@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace TechLibrary.Exception
+namespace TechLibrary.Execptions
 {
     public abstract class TechLibraryExeptions : SystemException
     {
